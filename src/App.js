@@ -1,10 +1,10 @@
 
 import './App.css';
 import NavBar from './Components/NavBar/NavBar';
-import ItemListContainer from './Components/pages/ItemListContainer/ItemListContainer.jsx';
+import ItemListContainer from './pages/ItemListContainer/ItemListContainer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Item from './Components/Item/Item';
-import ItemDetailContainer from './Components/pages/ItemDetailContainer/ItemDetailContainer.jsx';
+import ItemDetailContainer from './pages/ItemDetailContainer/ItemDetailContainer';
 
 
 function App() {

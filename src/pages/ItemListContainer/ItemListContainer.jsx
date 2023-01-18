@@ -1,5 +1,5 @@
 
-import  ItemList  from "../../ItemList/ItemList";
+import  ItemList  from "../../Components/ItemList/ItemList";
 import { useState, useEffect } from "react";
 
 const arreglo = [
